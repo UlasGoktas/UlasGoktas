@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ulas</h1>
-<h3 align="center">A Mobile Application Developer</h3>
+<h3 align="center">iOS Developer</h3>
 
-- 🌱 I’m currently learning **Dart, Flutter and Swift.**
+- 🌱 I’m currently learning **SwiftUI.**
 
 - 💬 Ask me about **Flutter and Swift.**
 
