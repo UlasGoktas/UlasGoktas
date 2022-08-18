@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **SwiftUI.**
 
-- 💬 Ask me about **Flutter and Swift.**
+- 💬 Ask me about **Swift.**
 
 - 📫 How to reach me **u.ulas.goktas@gmail.com**
 
@@ -23,7 +23,6 @@
 
 <h3 align="left">Tools:</h3>
 <p align="left">
-<a href="https://code.visualstudio.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png" alt="vscode" width="30" height="30"/> </a>
 <a href="https://developer.apple.com/xcode/" target="_blank"> <img src="https://developer.apple.com/design/human-interface-guidelines/macos/images/app-icon-realistic-materials.png" alt="xcode" width="30" height="30"/> </a>
 <a href="https://slack.com/intl/en-tr/" target="_blank"> <img src="https://cdn.brandfolder.io/5H442O3W/as/pl546j-7le8zk-4nzzs1/Slack_Mark_Web.png" alt="slack" width="37" height="37"/> </a>
 <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="30" height="30"/> </a>
